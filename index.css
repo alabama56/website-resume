@@ -1,0 +1,28 @@
+.nav-height {
+  height: 50px !important; }
+
+.nav-height {
+  height: 50px !important; }
+
+body {
+  background-image: url("images/pattern2.png"); }
+
+.main {
+  max-width: 1200px;
+  margin: 0 auto; }
+
+.col.s12.m6.l6 {
+  height: 248px; }
+  .col.s12.m6.l6 h1 {
+    min-width: 288px; }
+
+nav {
+  background-image: url("images/pattern2.png") !important; }
+  nav a {
+    color: black !important; }
+
+.z-depth-1, nav, .card-panel, .card, .toast, .btn, .btn-large, .btn-floating, .dropdown-content, .collapsible, .side-nav {
+  -webkit-box-shadow: none !important;
+  box-shadow: none !important; }
+
+/*# sourceMappingURL=index.css.map */

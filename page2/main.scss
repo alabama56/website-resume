@@ -1,0 +1,12 @@
+@import '_variables';
+@import '_mixins';
+@import '_globals';
+
+body {
+    background-image: url('images2/white-background.jpg');
+    margin: 0 auto;
+}
+
+h1 {
+    margin-bottom: 0!important;
+}
